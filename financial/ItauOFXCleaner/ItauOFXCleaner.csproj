@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Oberdan Nunes</Authors>
+    <Company />
+    <Description>Utilitário simples para remover linhas indesejadas de arquivos OFX gerados no extrato do banco Itaú</Description>
+  </PropertyGroup>
+
+</Project>
