@@ -7,6 +7,8 @@
     <Authors>Oberdan Nunes</Authors>
     <Company />
     <Description>Utilitário simples para remover linhas indesejadas de arquivos OFX gerados no extrato do banco Itaú</Description>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageProjectUrl>https://github.com/oberdannunes/utils/tree/master/financial/ItauOFXCleaner</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
