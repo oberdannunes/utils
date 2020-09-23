@@ -12,7 +12,8 @@ namespace ItauOFXCleaner {
 				"SALDO INICIAL", 
 				"RES APLIC AUT MAIS", 
 				"SALDO APLIC AUT MAIS", 
-				"APL APLIC AUT MAIS" 
+				"APL APLIC AUT MAIS",
+				"SALDO FINAL"
 			};
 
 			if (args.Length != 1
